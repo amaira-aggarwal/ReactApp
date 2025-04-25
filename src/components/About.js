@@ -9,6 +9,7 @@ export default function About() {
       <p style={{ textAlign: "center" }}>
         This is the About page of our React App
       </p>
+      <jumbotron></jumbotron>
     </div>
   );
 }
